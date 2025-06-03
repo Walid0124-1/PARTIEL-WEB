@@ -248,8 +248,21 @@ body{
         flex-direction: column;
     }
 
-    .section3{
-        flex-direction: row;
+    .div8
+    {
+        flex-direction: column;
     }
 
+    .div10{
+        display: none;
+    }
+
+    .divLingne{
+        display: none;
+    }
+
+    .section3{
+        justify-content: center;
+        align-items: center;
+    }
 }
