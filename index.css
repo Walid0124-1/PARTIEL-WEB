@@ -234,6 +234,35 @@ body{
     gap: 40px;
 }
 
+.div15 h1{
+    color: #A6BBCC;
+    font-family: "Abel", sans-serif;
+}
+
+.div15{
+    font-family: "Abel", sans-serif;
+    font-weight: bold;
+    color: #A6BBCC;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+
+.section5{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 50px;
+}
+
+.section5 p{
+    color: white;
+    font-family: "Abel", sans-serif;
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+}
+
 @media screen and (max-width:500px){
     .navbare{
         flex-direction: column;
@@ -279,6 +308,11 @@ body{
     .div144{
         display: flex;
         flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .section5{
         justify-content: center;
         align-items: center;
     }
