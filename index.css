@@ -274,4 +274,9 @@ body{
         justify-content: center;
         align-items: center;
     }
+
+    .div144{
+        width: 100px;
+        height: 200px;
+    }
 }
