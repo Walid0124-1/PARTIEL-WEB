@@ -269,4 +269,9 @@ body{
     .div14{
         flex-direction: column;
     }
+
+    .section4{
+        justify-content: center;
+        align-items: center;
+    }
 }
