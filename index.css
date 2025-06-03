@@ -268,16 +268,18 @@ body{
 
     .div14{
         flex-direction: column;
-        gap: 500px;
+        gap: 100px;
     }
 
-    .section4{
-        justify-content: center;
-        align-items: center;
+    .div144 img{
+        width: 350px;
+        height: 200px;
     }
 
     .div144{
-        width: 80px;
-        height: 150px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
     }
 }
